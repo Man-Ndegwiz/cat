@@ -1,0 +1,73 @@
+h1{color: #ffcccc;
+text-align: center;}
+
+
+.l ul{list-style: none;}
+  
+
+.l ul li{background-color: #6666ff;
+			width: 100px;
+			border: 1px solid #000000;
+			height: 30px;
+			line-height: 30px;
+			text-align: center;
+			float: right;
+			color: #ffffff;
+			font size: 9px;
+		}
+   
+
+#d{padding: 50px;
+	text-align: center;
+}
+
+.p{background-image: url(pictures/tough_girl.jpg);}
+#lala{padding: 10px;
+text-indent: 20px;
+color: #ffffff;}
+
+
+*{padding: 0px;
+margin: 0px;}
+
+#GG{
+	text-align: center;
+
+	}
+
+
+.yy{color: #99ff99;}
+
+#voke{width: 630px; 
+	float: right;
+	height: 450px;
+	border: 1px solid #000000;
+	background-color: #ffb3d9;}
+
+#Ndegwa{width: 631px; 
+	float: left;
+	height: 450px;
+	border: 1px solid #000000;
+background-color: #b3d9ff;}
+
+#melissa{color:#000000; }
+
+#pap{color: #000000;}
+
+.anto ul li a img{float: right;}
+
+
+#alela{text-align: center;
+	width: 100px;}
+
+
+#brayo{text-align: center;
+font size: 14px;
+width: 100px;
+margin: auto;}
+
+
+#a{width: 100px; 
+	float: left;
+	height: 50px;
+background-color: #b3d9ff;}
